@@ -1,0 +1,54 @@
+{
+  "name": "Burger Store",
+  "short_name": "My Burger",
+  "description": "Order your customized burger with selectable ingredients",
+  "icons": [
+    {
+      "src": "/src/assets/images/favicon.ico",
+      "sizes": "32x32 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/src/assets/images/maskable_icon_x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/src/assets/images/maskable_icon_x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/src/assets/images/maskable_icon_x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/src/assets/images/maskable_icon_x384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "/src/assets/images/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "dir": "ltr",
+  "lang": "en-Us",
+  "orientation": "any",
+  "categories": [
+    "food",
+    "fastFood",
+    "burger",
+    "burgerBuilder",
+    "burger_builder",
+    "fast_food",
+    "ingredient"
+  ]
+}
